@@ -8,8 +8,7 @@ cover:
     url: 'https://i.ibb.co/cchJ5qk/Walker-Assault-DICE.png?resize=1&w=1920'
     square: 'https://i.ibb.co/cchJ5qk/Walker-Assault-DICE.png?resize=1&w=1920'
     alt: 'cover'
-tags: ["
-Star Wars, science fiction, film, franchise, action, adventure, lightsaber duels, Jedi, Empire, Rebel Alliance, iconic scenes, emotional moments, music, visual effects, pop culture, AT-AT walkers, X-wing fighters, Darth Vader, Luke Skywalker, Obi-Wan Kenobi"]
+tags: ["Star Wars, science fiction, film, lightsaber duels"]
 theme: 'dark'
 featured: true
 ---
