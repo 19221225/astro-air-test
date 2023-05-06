@@ -23,7 +23,7 @@ As a fan of Star Wars, you may have watched the films several times and know the
 
 The opening scene of The Empire Strikes Back features one of the most iconic battles in the franchise's history. The Rebel Alliance is on the run from the Empire, and their base on the ice planet of Hoth is under attack. The battle features AT-AT walkers, snowspeeders, and a daring tow-cable maneuver that takes down an AT-AT. The scene is a visual feast, and the music adds to the tension and excitement.
 
-![The Battle of Hoth](https://static.wikia.nocookie.net/starwars/images/a/ab/Walker_Assault_DICE.png)
+![The Battle of Hoth](https://static.wikia.nocookie.net/starwars/images/a/ab/Walker_Assault_DICE.png?resize=1&w=1920)
 
 在诺蒙学院时，她创作的废弃工厂环境还被评为“学期最佳”，这帮助她在成为美术师的道路上迈向了一个新台阶。“这件作品的灵感源自我最喜欢的电子游戏《最后生还者》。”Kris说，“顽皮狗的游戏是我来美国学习游戏美术的动因，我想重现他们的风格，通过环境本身讲述故事。”这是她使用虚幻引擎5创作的第一个项目，用到了许多新技术和技能，还做了一些实验。Kris的所有资产都是在Maya中建模的，随后，她使用ZBrush进行雕刻，并通过Substance Painter和Designer应用经过平铺和烘焙的纹理。
 
