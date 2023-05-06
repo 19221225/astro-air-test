@@ -5,10 +5,11 @@ pubDate: 2023-5-07
 description: ''
 author: 'Zidan'
 cover:
-    url: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
-    square: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
+    url: 'https://i.ibb.co/cchJ5qk/Walker-Assault-DICE.png?resize=1&w=1920'
+    square: 'https://i.ibb.co/cchJ5qk/Walker-Assault-DICE.png?resize=1&w=1920'
     alt: 'cover'
-tags: ["Star Wars", "Science fiction", "Film", "Jedi", "Pop culture", "Iconic scenes"]
+tags: ["
+Star Wars, science fiction, film, franchise, action, adventure, lightsaber duels, Jedi, Empire, Rebel Alliance, iconic scenes, emotional moments, music, visual effects, pop culture, AT-AT walkers, X-wing fighters, Darth Vader, Luke Skywalker, Obi-Wan Kenobi"]
 theme: 'dark'
 featured: true
 ---
