@@ -21,21 +21,9 @@ As a fan of Star Wars, you may have watched the films several times and know the
 
 ## The Battle of Hoth - The Empire Strikes Back
 
-在《暗黑破坏神4》团队中，团队中的新人环境美术师的日常工作是怎样的？按照Kris Yu的说法，通常，她首先要登录系统，完成游戏开发引擎的同步，然后开始处理分配给她的环境任务。对于该团队的美术师来说，时间管理至关重要，按时完成任务是成功的基础。Kris说：“重点不在于‘尽最大努力’或‘创造最好的美术作品’，而是必须遵守时间安排，确保一切顺利。”
+The opening scene of The Empire Strikes Back features one of the most iconic battles in the franchise's history. The Rebel Alliance is on the run from the Empire, and their base on the ice planet of Hoth is under attack. The battle features AT-AT walkers, snowspeeders, and a daring tow-cable maneuver that takes down an AT-AT. The scene is a visual feast, and the music adds to the tension and excitement.
 
-她学到了一个有用的技巧，那就是将与任务相关的所有说明和图片全部列出来。一旦完成，她就会在上面打勾。由于每处环境所需的细节程度各不相同，她或她的团队很容易遗漏一些需要解决的问题，而这种方法能够帮助Kris避免出差错。
-
-很快，她又了解到，电子游戏行业的工作需要大量沟通和团队协作，在家办公时尤其如此。“在这个行业中，能够大胆直言，表达自我，并倾听他人的意见是至关重要的。”Kris说，“人们已经预料到我会提出问题，犯下错误。我不会因为自己的错误而感到懊悔和不安，我会吸取教训并改正，这将使我成长得更快。”
-
-为了更清楚地了解每天的任务，Kris会定期通过语音与同事及团队领导交流。她的团队还会上传视频，在每周的回顾会议中互相提供反馈，她说这是一种很好的学习方式，也体现出了同事对游戏开发的热情。
-
-Kris认为，如果自己在进入新工作之前更深入地学习了设计方面的知识就好了。当她还是一名学生时，她倾向于将其他美术师的概念设计当作起点，在这个基础上创建3D环境。有了那种坚实的基础，Kris只需要做出一些小改动，就能完善整体环境。
-
-当Kris开始与《暗黑破坏神4》的团队协作处理场景构建任务后，她需要进一步顾及3D空间中的玩法设计，但她认为自己缺乏基础设计方面的经验。“我的个人项目不像可玩的游戏那样错综复杂，在游戏中，可移动摄像机所展示的各个角度都应该完美。”Kris说，“所以我还要继续学习空间设计，我已经在阅读建筑类的书籍了，希望学到更多关于建筑结构的知识。”
-
-那么，Kris如何一毕业就能在暴雪找到工作？她在2022年的Rookie Awards中获得了游戏开发年度新秀奖，其作品还在2022年虚幻引擎学生作品展中展出过。如果你经常访问虚幻引擎网站，甚至可能已经看过她的作品，只是没有注意到而已！
-
-![图片由Kris Yu提供](https://cdn2.unrealengine.com/student-to-3d-artist-kris-1-1920x1080-edbf5490e1b7.jpg?resize=1&w=1920)
+![Star Wars]([https://cdn2.unrealengine.com/student-to-3d-artist-kris-1-1920x1080-edbf5490e1b7.jpg](https://static.wikia.nocookie.net/starwars/images/a/ab/Walker_Assault_DICE.png/revision/latest?cb=20151111031527?resize=1&w=1920)
 
 在诺蒙学院时，她创作的废弃工厂环境还被评为“学期最佳”，这帮助她在成为美术师的道路上迈向了一个新台阶。“这件作品的灵感源自我最喜欢的电子游戏《最后生还者》。”Kris说，“顽皮狗的游戏是我来美国学习游戏美术的动因，我想重现他们的风格，通过环境本身讲述故事。”这是她使用虚幻引擎5创作的第一个项目，用到了许多新技术和技能，还做了一些实验。Kris的所有资产都是在Maya中建模的，随后，她使用ZBrush进行雕刻，并通过Substance Painter和Designer应用经过平铺和烘焙的纹理。
 
