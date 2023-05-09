@@ -25,7 +25,7 @@ The new HomePod is available for online ordering or through the Apple Store app 
 
 The new HomePod features a seamless acoustic mesh fabric and a backlit touch panel, with a beautiful design that complements any space. The HomePod is available in two finishes: white and a brand-new midnight color, which is made from 100% recycled fabric and comes with a color-matched braided power cable.
 
-![HomePod has a beautiful design, with a seamless acoustic mesh fabric and a backlit touch panel.|inline][https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-2-up-230118_big.jpg.large_2x.jpg)
+![HomePod has a beautiful design, with a seamless acoustic mesh fabric and a backlit touch panel.|inline](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-2-up-230118_big.jpg.large_2x.jpg)
 
 ## Powerful acoustic performance
 
