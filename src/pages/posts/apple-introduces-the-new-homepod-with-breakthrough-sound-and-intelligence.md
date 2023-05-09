@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Apple 推出新款 HomePod，带来突破性音质与智能体验'
+title: 'Apple launch new HomePod，Bring breakthrough sound quality and intelligent experience'
 pubDate: 2035-03-25
 description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
 author: 'Apple Newsroom'
@@ -15,79 +15,84 @@ featured: true
 
 ![HomePod 汇集了多项 Apple 创新技术、Siri 智能和智能家居功能，为用户带来前所未有的聆听体验。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg)
 
-加利福尼亚州，库比提诺Apple 今日宣布推出 HomePod（第二代）。这款功能强大的智能扬声器采用优美的标志性设计，为用户带来新一代声学体验。HomePod 汇集了多项 Apple 创新技术与 Siri 智能，提供先进计算音频技术，支持播放沉浸式空间音频曲目，呈现前所未有的聆听体验。HomePod 带来管理日常任务、控制智能家居的便利新方式，用户可以使用 Siri 创建智能家居自动化功能，在家中触发烟雾或一氧化碳警报时获得通知，或者查看房间的温度与湿度——以上操作不必动手就能完成。
+California-based Cupertino Apple announced today the launch of the HomePod (2nd generation). This powerful smart speaker features a beautiful iconic design that brings users a new generation of acoustic experience. The HomePod brings together multiple Apple innovative technologies and Siri intelligence, offering advanced computational audio technology, supporting immersive spatial audio tracks playback, and presenting an unprecedented listening experience. The HomePod brings a new and convenient way to manage daily tasks and control smart homes. Users can use Siri to create smart home automation functions, receive notifications when smoke or carbon monoxide alarms are triggered at home, or check room temperature and humidity - all without lifting a finger.
 
-> 新款 HomePod 从今日起可在线或通过 Apple Store app 订购，2 月 3 日（周五）起正式发售。
+The new HomePod is available for online ordering or through the Apple Store app starting today, and will be officially released on Friday, February 3rd.
 
-“利用我们的专业音频技术和创新，新款 HomePod 可呈现醇厚深沉的低音、自然的中音和清澈细腻的高音。”Apple 全球市场营销高级副总裁 Greg Joswiak 表示，“随着 HomePod mini 大受欢迎，我们看到用户对体积更大、声学表现更强劲的 HomePod 兴趣也与日俱增。我们很高兴能为全球各地的顾客带来新一代 HomePod。”
+"Using our professional audio technology and innovation, the new HomePod can deliver rich and deep bass, natural midrange, and clear and delicate treble," said Greg Joswiak, Apple's Senior Vice President of Global Marketing. "As HomePod mini has become increasingly popular, we have seen growing interest from users in a larger volume and more powerful acoustic performance HomePod. We are excited to bring the new generation HomePod to customers around the world."
 
-## 优美设计
+## Beatiful Design
 
-新款 HomePod 的外观由无缝透声织网和背光触控板构成，优美的设计与各种空间相得益彰。HomePod 提供白色与全新的午夜色两种外观，后者由 100% 再生织物构成，配有同色系编织电源线。
+The new HomePod features a seamless acoustic mesh fabric and a backlit touch panel, with a beautiful design that complements any space. The HomePod is available in two finishes: white and a brand-new midnight color, which is made from 100% recycled fabric and comes with a color-matched braided power cable.
 
-![HomePod 设计优美，外观由无缝透声织网和背光触控板构成。|inline](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-2-up-230118_big.jpg.large_2x.jpg)
+"HomePod has a beautiful design, with a seamless acoustic mesh fabric and a backlit touch panel."(https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-2-up-230118_big.jpg.large_2x.jpg)
 
-## 强劲的声学表现
+## Powerful acoustic performance
 
-HomePod 呈现出类拔萃的音质，低音醇厚深沉，高频惊艳动人。定制研发的高振幅低音单元、振幅高达惊人的 20 毫米的强劲电机驱动振膜、内置低音均衡器麦克风、底部环绕着由 5 个波束成形高音单元组成的阵列，共同打造强大的声学体验。S7 芯片结合软件和系统感应技术，提供更加先进的计算音频，彻底发挥声学系统的全部潜能，呈现前所未有的聆听体验。
+The HomePod delivers outstanding sound quality with rich and deep bass and stunningly clear high frequencies. Custom-developed high-amplitude, low-distortion woofer, powered by a 20-millimeter high-excursion driver, built-in low-frequency calibration microphone, and a bottom-firing array of five beamforming tweeters work together to create a powerful acoustic experience. The S7 chip, combined with advanced software and sensing technology, provides even more advanced computational audio and fully unleashes the potential of the acoustic system, resulting in an unprecedented listening experience.
 
-![高振幅低音单元、强劲电机、内置低音均衡器麦克风、波束成形五高音单元阵列，共同打造强大的声学体验。|inline](https://www.apple.com.cn/newsroom/images/product/homepod/lifestyle/Apple-HomePod-internals-230118_inline.jpg.large_2x.jpg)
+![A high-amplitude low-frequency driver, a powerful motor, a built-in low-frequency equalizer microphone, and an array of five beamforming high-frequency units create a powerful acoustic experience. | inline](https://www.apple.com.cn/newsroom/images/product/homepod/lifestyle/Apple-HomePod-internals-230118_inline.jpg.large_2x.jpg)
 
-利用室内空间感应技术，HomePod 可识别附近表面反射的声音，判断是否靠近墙壁等表面，并对音频进行实时调整。5 个高音单元组成的波束成形阵列利用精确指向控制分离与定向传送直达声和环境声，让用户在清澈的人声和醇美的器乐声中尽情沉醉。
+Using indoor spatial awareness technology, HomePod can recognize sound reflections from nearby surfaces, determine whether it is near a wall or other surface, and adjust the audio in real-time. The beamforming array of 5 high-frequency drivers utilizes precise directional control to separate and direct direct sound and ambient sound, allowing users to indulge in clear vocals and rich instrumentals.
 
-用户可聆听 Apple Music 曲库中的数千万首歌曲1，通过单个 HomePod 或用两个 HomePod 组成立体声组合享受空间音频。用户可以通过 Siri 了解各种音乐知识，并根据艺人、歌曲、歌词、年代、类型、心情或活动搜索音乐。
+Users can listen to millions of songs from the Apple Music library through a single HomePod or enjoy spatial audio by combining two HomePods in a stereo pair. Users can also use Siri to learn about various music knowledge and search for music based on artist, song, lyrics, decade, genre, mood, or activity.
 
-多个 HomePod 带来更出色的体验 两个及更多 HomePod 或 HomePod mini 可解锁一系列强大功能。利用支持多房间音频的隔空播放技术2，用户只要说“嘿 Siri”，或者触碰并按住 HomePod 顶部，就能用多个 HomePod 播放同一首歌曲，或在不同 HomePod 上播放不同歌曲，甚至使用多个 HomePod 进行广播，传话到各个房间。
-用户还可以把两个 HomePod 放在一起，组成立体声组合3。立体声组合不但可以分离左右声道，还能和谐地播放双声道音频，营造比传统立体声扬声器更宽广、更具沉浸感的声场，呈现出类拔萃的聆听体验。
 
-![用户可以使用两个 HomePod 组成立体声组合，打造更宽广、更具沉浸感的声场。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-stereo-pair-230118_big.jpg.large_2x.jpg)
+Multiple HomePods bring a better experience. Two or more HomePods or HomePod minis can unlock a range of powerful features. Utilizing the AirPlay 2 technology that supports multi-room audio, users can simply say "Hey Siri" or touch and hold the top of a HomePod to play the same song on multiple HomePods, or play different songs on different HomePods, or even use multiple HomePods for broadcasting, delivering messages to different rooms.
 
-## 无缝整合 Apple 生态系统
+Users can also place two HomePods together to create a stereo pair. The stereo pair not only separates the left and right channels but also harmoniously plays stereo audio, creating a wider and more immersive sound field than traditional stereo speakers and presenting an exceptional listening experience.。
 
-利用超宽带技术，用户可以将 iPhone 上播放的任何声音，如喜爱的歌曲、播客甚至通话直接转移到 HomePod4。房间中的任何人都可以拿着 iPhone 靠近 HomePod，播放建议会自动出现在 iPhone 屏幕上，从而轻松控制音频播放或获取个性化歌曲与播客推荐。HomePod 还能识别最多 6 个用户的语音，让所有家庭成员都能轻松聆听## 私人歌单、设置提醒和日历事项。
+![Users can use two HomePods to create a stereo pair, creating a wider and more immersive sound field. |inline](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-stereo-pair-230118_big.jpg.large_2x.jpg)
 
-HomePod 的“查找”功能可以让遗落的设备播放声音，帮用户定位 iPhone 等 Apple 设备。用户还能向 Siri 询问好友或家人的位置（需要对方在“查找”app 中选择共享自己的位置）。
+## Seamless integration with the Apple ecosystem.
 
-![房间中的任何人都可以拿着 iPhone 靠近 HomePod，播放建议会自动出现在 iPhone 屏幕上，从而轻松控制音频播放或获取个性化歌曲与播客推荐。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-ecosystem-230118_big.jpg.large_2x.jpg)
+With ultra-wideband technology, users can easily transfer any audio playing on their iPhone, such as their favorite songs, podcasts, or even phone calls, directly to HomePod. Anyone in the room can hold their iPhone near the HomePod and suggested playback options will automatically appear on the iPhone screen, making it easy to control audio playback or receive personalized song and podcast recommendations. HomePod can also recognize up to 6 different users' voices, allowing all family members to easily listen to their personal playlists, set reminders, and manage calendar events.
 
-## 智能家居必备 
+The "Find My" feature of HomePod allows users to make misplaced Apple devices play a sound to help locate them, such as an iPhone. Users can also ask Siri about the location of friends or family members (who have chosen to share their location using the "Find My" app).
 
-依托声音识别功能5，HomePod 可以听到烟雾或一氧化碳警报声，识别出此类声音后，直接向用户的 iPhone 发送通知。全新的内置温度和湿度感应器可衡量室内环境，让用户设置自动化操作，例如房间内到达一定温度时关上窗帘，或者打开风扇。
 
-通过 Siri，顾客无需动手就能控制单一设备，或者创建场景，例如让多个智能家居设备在早上同时开始工作，或者设置反复出现的自动化操作，例如“嘿 Siri，每天早晨日出时打开窗帘6”。当用户通过 Siri 操控暖气等未能以肉眼分辨是否已开关的配件，或者操控位于不同房间的配件时，HomePod 会发出新的确认音效。经过重制的海洋、森林、雨声等环境音效将进一步整合到体验中，让顾客可以为场景、自动化和警报添加新的声音。
+![Anyone in the room can hold their iPhone near HomePod and playback suggestions will appear on the iPhone screen, making it easy to control audio playback or get personalized music and podcast recommendations. |inline](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-ecosystem-230118_big.jpg.large_2x.jpg)
 
-用户也可以在重新设计的家庭 app 中直观地操控、查看和管理配件。家庭 app 提供了“环境”、“灯”和“安全”等新类别，并提供全新多机位视图，让用户轻松设置和控制智能家居。
+## Smart home essential. 
 
-![用户可以在重新设计的家庭 app 中直观地操控、查看和管理配件。|inline](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-smart-home-230118_big.jpg.large_2x.jpg)
+With the sound recognition feature, HomePod can detect the sound of smoke or carbon monoxide alarms and send notifications directly to the user's iPhone. The new built-in temperature and humidity sensor can measure the indoor environment, allowing users to set up automation such as closing curtains when the room reaches a certain temperature or turning on a fan.
 
-## Matter 支持
+Using Siri, customers can control individual devices or create scenes without lifting a finger, such as having multiple smart home devices start working simultaneously in the morning, or setting up recurring automations, like "Hey Siri, open the curtains every morning at sunrise." When users control accessories such as heating or devices in different rooms via Siri, HomePod will provide new confirmation sounds. The redesigned ocean, forest, rain, and other ambient sounds will also be integrated into the experience, allowing customers to add new sounds to their scenes, automations, and alerts.
 
-去年秋季推出的 Matter 连接标准确保智能家居产品在跨生态系统工作时保持最高级别的安全。Apple 是 Connectivity Standards Alliance（连接标准联盟）成员，该联盟与其他行业领导者一起维护 Matter 智能家居连接标准。HomePod 可连接并支持 Matter 的配件，担任家居中枢，让用户出门在外也能远程控制。
+Users can also intuitively control, view, and manage accessories in the redesigned Home app. The Home app provides new categories such as "Environment", "Lights", and "Security", and offers a new multi-room view, enabling users to easily set up and control their smart home devices.
 
-## 顾客数据属于私有财产
+![Users can intuitively control, view, and manage accessories in the redesigned Home app. The Home app provides new categories such as "Environment," "Lighting," and "Security," and offers a new multi-room view, allowing users to easily set up and control smart home devices. |inline](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-smart-home-230118_big.jpg.large_2x.jpg)
 
-保护顾客隐私始终是 Apple 的一项核心价值观。所有智能家居设备之间的通信始终保持端到端加密，包括 HomeKit 安防视频摄像头录制的内容，均无法被 Apple 读取。使用 Siri 时，请求音频默认不会被存储。这些功能确保让用户居家隐私得到保障。
+## Matter Support
 
-## HomePod 与环境
+Last fall, the Matter connectivity standard was launched to ensure that smart home products maintain the highest level of security when working across ecosystems. Apple is a member of the Connectivity Standards Alliance, which maintains the Matter smart home connectivity standard together with other industry leaders. HomePod can connect to and support Matter-enabled accessories, serving as a home hub that allows users to control their devices remotely even when they're away from home.
 
-HomePod 致力于最大程度地降低对环境的影响，在多个印刷电路板的电镀层中使用 100% 再生金（对 HomePod 而言尚属首次），且在扬声器磁体中使用 100% 再生稀土元素。HomePod 符合 Apple 对能效的严苛标准，且不含汞、溴化阻燃剂（BFR）、聚氯乙烯（PVC）和铍。经重新设计的包装材料不再使用塑料外膜，96% 的包装材料采用纤维基，让 Apple 更加接近 2025 年底前在包装中完全去除塑料的目标。
+## Customer Data Belongs To Private Property
 
-目前 Apple 已实现全球公司运营碳中和，并计划到 2030 年实现全部供应链和所有产品生命周期 100% 碳中和。这意味着每一部售出的 Apple 设备，从零件制造、组装、运输、用户使用、充电，直到设备和材料回收的所有环节，都将实现净零气候影响。
+Protecting customer privacy has always been a core value for Apple. All communication between smart home devices is always end-to-end encrypted, including content recorded by HomeKit security cameras, which cannot be read by Apple. When using Siri, audio requests are not stored by default. These features ensure that users' home privacy is protected.
 
-## 价格与上市时间
+## HomePod With The Environment
 
-HomePod（第二代）售价为 RMB 2299 （中国大陆），今日起通过 apple.com.cn/store 及 Apple Store app 对澳大利亚、加拿大、中国大陆、法国、德国、意大利、日本、西班牙、英国、美国及其他 11 个国家和地区的顾客开放订购，并于 2 月 3 日（周五）起正式发售。
-HomePod（第二代）支持运行 iOS 16.3 或后续系统的 iPhone SE（第二代）及后续机型或 iPhone 8 及后续机型；运行 iPadOS 16.3 的 iPad Pro、iPad（第五代）及后续机型、iPad Air（第三代）及后续机型或 iPad mini（第五代）及后续机型。
-购买 HomePod 的新用户，即可获享 6 个月 Apple Music 免费订阅服务。
+HomePod is committed to minimizing its impact on the environment by using 100% recycled gold in the plating layers of multiple printed circuit boards (a first for HomePod), and 100% recycled rare earth elements in the speaker magnets. HomePod meets Apple's stringent energy efficiency standards and does not contain mercury, brominated flame retardants (BFRs), polyvinyl chloride (PVC), or beryllium. The redesigned packaging materials no longer use plastic shrink wrap, and 96% of the packaging materials are fiber-based, bringing Apple closer to its goal of completely eliminating plastics from packaging by the end of 2025.
 
-## 关于 Apple
+Apple has currently achieved carbon neutrality in its global operations and plans to achieve 100% carbon neutrality in its entire supply chain and product life cycle by 2030. This means that every Apple device sold, from parts manufacturing, assembly, transportation, user use, charging, and device and material recycling, will achieve net zero climate impact.
 
-Apple 于 1984 年推出 Macintosh，为个人技术带来了巨大变革。今天，Apple 凭借 iPhone、iPad、Mac、Apple Watch 和 Apple TV 引领全球创新。Apple 的 5 个软件平台，iOS、iPadOS、macOS、watchOS 和 tvOS，带来所有 Apple 设备之间的顺畅使用体验，同时以 App Store、Apple Music、Apple Pay 和 iCloud 等突破性服务赋予人们更大的能力。Apple 的 100,000 多名员工致力于打造全球顶尖的产品，并让世界更加美好。
+## Price and release date
 
-## Apple Music 需要订阅
+The HomePod (2nd generation) is priced at RMB 2299 in Mainland China, and is now available for pre-order through apple.com.cn/store and the Apple Store app for customers in Australia, Canada, Mainland China, France, Germany, Italy, Japan, Spain, the United Kingdom, the United States, and 11 other countries and regions. It will be officially released on February 3rd (Friday).
 
-多房间音频需要多个 HomePod 或支持隔空播放并运行最新版本隔空播放软件的扬声器。
-组建 HomePod 立体声组合需要两个相同型号的 HomePod 扬声器，例如两个 HomePod mini，两个 HomePod（第二代）或两个 HomePod（第一代）。
-在 iPhone 上使用接力功能需运行 iOS 16.3。
+The HomePod (2nd generation) supports iPhone SE (2nd generation) and later models or iPhone 8 and later models running iOS 16.3 or later; iPad Pro, iPad (5th generation) and later models, iPad Air (3rd generation) and later models, or iPad mini (5th generation) and later models running iPadOS 16.3.
 
-声音识别功能会在今春稍晚通过软件更新推出。声音识别功能可以探测烟雾和一氧化碳警报声，并在识别后向用户发送通知。当用户身处可能受到伤害的环境中，或在高风险或紧急情况下，均不应依赖声音识别功能。声音识别功能需要更新版家庭架构，该架构将在家庭 app 的独立更新中推出。它要求所有连接家居配件的 Apple 设备均使用最新版本软件。智能家居配件需单独购买。
+New HomePod users will receive a free 6-month subscription to Apple Music.
+
+## About Apple
+
+Apple launched the Macintosh in 1984, which brought about a great revolution in personal technology. Today, Apple leads the world in innovation with the iPhone, iPad, Mac, Apple Watch, and Apple TV. Apple's five software platforms, iOS, iPadOS, macOS, watchOS, and tvOS, provide a seamless user experience across all Apple devices, while groundbreaking services such as the App Store, Apple Music, Apple Pay, and iCloud empower people with greater capabilities. Apple's more than 100,000 employees are dedicated to creating the world's best products and making the world a better place.
+
+## Apple Music requires a subscription
+
+Multi-room audio requires multiple HomePods or speakers that support AirPlay 2 and are running the latest AirPlay 2 software.
+Creating a stereo pair with HomePod requires two of the same model, such as two HomePod minis, two HomePods (2nd generation), or two HomePods (1st generation).
+To use Handoff on iPhone, you need to be running iOS 16.3 or later.
+
+The sound recognition feature will be released later this spring through a software update. The sound recognition feature can detect smoke and carbon monoxide alarm sounds and send notifications to users upon recognition. The sound recognition feature should not be relied upon in environments where users may be at risk of harm or in high-risk or emergency situations. The sound recognition feature requires an updated HomeKit architecture, which will be released in a separate update to the Home app. It requires all Apple devices connected to home accessories to be running the latest software version. Smart home accessories need to be purchased separately.
