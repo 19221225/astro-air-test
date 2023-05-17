@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Konser Pembuka The Eras Tour Taylor Swift Tampil Gila dalam 44 Lagu!'
+title: 'Taylor Swift Menampilkan 44 Lagu Dalam Konser Pembuka The Eras Tour'
 pubDate: 2023-5-07
 description: ''
 author: 'Tita'
