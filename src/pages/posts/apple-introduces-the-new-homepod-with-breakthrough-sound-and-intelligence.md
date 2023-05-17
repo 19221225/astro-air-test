@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Apple launch new HomePod，Bring breakthrough sound quality and intelligent experience'
 pubDate: 2035-03-25
-description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
+description: 'Menghadirkan kualitas suara terbaik di kelasnya, kemampuan Siri yang ditingkatkan, dan pengalaman rumah pintar yang aman dan terlindungi'
 author: 'Apple Newsroom'
 cover:
     url: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
@@ -13,7 +13,7 @@ theme: 'light'
 featured: true
 ---
 
-![HomePod 汇集了多项 Apple 创新技术、Siri 智能和智能家居功能，为用户带来前所未有的聆听体验。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg)
+![HomePod 汇Mengintegrasikan beberapa inovasi Apple, kecerdasan Siri, dan fitur rumah pintar untuk menghadirkan pengalaman mendengarkan yang belum pernah ada sebelumnya kepada pengguna。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg)
 
 California-based Cupertino Apple announced today the launch of the HomePod (2nd generation). This powerful smart speaker features a beautiful iconic design that brings users a new generation of acoustic experience. The HomePod brings together multiple Apple innovative technologies and Siri intelligence, offering advanced computational audio technology, supporting immersive spatial audio tracks playback, and presenting an unprecedented listening experience. The HomePod brings a new and convenient way to manage daily tasks and control smart homes. Users can use Siri to create smart home automation functions, receive notifications when smoke or carbon monoxide alarms are triggered at home, or check room temperature and humidity - all without lifting a finger.
 
