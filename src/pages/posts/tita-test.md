@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Captivating Moments in a Galaxy Far, Far Away: A Look at the Best Scenes from Star Wars'
+title: 'Konser Pembuka The Eras Tour Taylor Swift Tampil 'Gila' dalam 44 Lagu!'
 pubDate: 2023-5-07
 description: ''
-author: 'Zidan'
+author: 'Tita'
 cover:
     url: 'https://i.ibb.co/cchJ5qk/Walker-Assault-DICE.png?resize=1&w=1920'
     square: 'https://i.ibb.co/cchJ5qk/Walker-Assault-DICE.png?resize=1&w=1920'
     alt: 'cover'
-tags: ["Star Wars, science fiction"]
+tags: ["Taylor Swift, Music, Entertainment"]
 theme: 'dark'
 featured: true
 ---
