@@ -8,7 +8,7 @@ cover:
     url: 'https://i.ibb.co/Y37bYKQ/image.png?resize=1&w=1920'
     square: 'https://i.ibb.co/Y37bYKQ/image.png?resize=1&w=1920'
     alt: 'cover'
-tags: ["Star Wars, science fiction"]
+tags: ["K-Pop,Music"]
 theme: 'Light'
 featured: true
 ---
