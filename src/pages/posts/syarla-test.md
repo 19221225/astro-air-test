@@ -5,10 +5,10 @@ pubDate: 2023-5-17
 description: ''
 author: 'Syarla'
 cover:
-    url: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
-    square: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
+    url: 'https://i.ibb.co/8dGNm09/BLACKPINK-16-9.jpg?resize=1&w=1920'
+    square: 'https://i.ibb.co/8dGNm09/BLACKPINK-16-9.jpg?resize=1&w=1920'
     alt: 'cover'
-tags: ["Star Wars", "Science fiction", "Film", "Jedi", "Pop culture", "Iconic scenes"]
+tags: ["K-Pop","Music"]
 theme: 'dark'
 featured: true
 ---
@@ -18,4 +18,4 @@ featured: true
 
 Blackpink adalah grup wanita populer berasal dari Korea Selatan. Berisi 4 wanita yang memiliki bakat yang menonjol dari masing-masing anggota. Mereka berada dibawah naungan YG ENTERTAINMENT. Mereka memulai debutnya pada tahun 2016 dengan lagu 'BOMBAYAH' dan berpasangan dengan lagu 'Whistle' dari single album mereka 'Square One'. 
 
-[BLACKPINK](https://i.ibb.co/8dGNm09/BLACKPINK-16-9.jpg)
+![BLACKPINK](https://i.ibb.co/8dGNm09/BLACKPINK-16-9.jpg?resize=1&w=1920)
