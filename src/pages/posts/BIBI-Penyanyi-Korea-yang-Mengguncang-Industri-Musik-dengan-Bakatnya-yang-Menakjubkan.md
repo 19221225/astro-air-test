@@ -8,7 +8,7 @@ cover:
     url: 'https://i.ibb.co/YhNsGyx/image.png?resize=1&w=1350'
     square: 'https://i.ibb.co/YhNsGyx/image.png?resize=1&w=1350'
     alt: 'cover'
-tags: ["K-Pop, Music, Artist"]
+tags:  ["K-Pop","Music"]
 theme: 'Light'
 featured: true
 ---
