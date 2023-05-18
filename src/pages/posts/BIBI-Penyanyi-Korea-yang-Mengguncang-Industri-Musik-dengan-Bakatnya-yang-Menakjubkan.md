@@ -5,8 +5,8 @@ pubDate: 2023-5-07
 description: ''
 author: 'Zidan'
 cover:
-    url: 'https://i.ibb.co/YhNsGyx/image.png?resize=1&w=1920'
-    square: 'https://i.ibb.co/YhNsGyx/image.png?resize=1&w=1920'
+    url: 'https://i.ibb.co/YhNsGyx/image.png?resize=1&w=1350'
+    square: 'https://i.ibb.co/YhNsGyx/image.png?resize=1&w=1350'
     alt: 'cover'
 tags: ["K-Pop, Music, Artist"]
 theme: 'Light'
