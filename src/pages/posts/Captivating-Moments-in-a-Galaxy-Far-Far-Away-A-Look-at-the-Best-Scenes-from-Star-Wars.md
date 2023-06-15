@@ -12,7 +12,7 @@ tags: ["Star Wars, science fiction","Film"]
 theme: 'dark'
 featured: true
 ---
-
+![HomePod 汇Mengintegrasikan beberapa inovasi Apple, kecerdasan Siri, dan fitur rumah pintar untuk menghadirkan pengalaman mendengarkan yang belum pernah ada sebelumnya kepada pengguna。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg)
 
 
 Star Wars is a legendary space opera that has captured the hearts and minds of generations of fans worldwide. The franchise has spawned numerous films, books, comics, and merchandise that have become part of pop culture. With its iconic characters, stunning visuals, and compelling storytelling, Star Wars has become a cultural phenomenon that has inspired countless people to imagine themselves as heroes battling evil in a galaxy far, far away.
