@@ -12,7 +12,7 @@ tags:  ["K-Pop","Music"]
 theme: 'Light'
 featured: true
 ---
-
+![BIBI: Penyanyi Korea yang Mengguncang Industri Musik dengan Bakatnya yang Menakjubkan](https://i.ibb.co/YhNsGyx/image.png)
 
 
 BIBI adalah seorang penyanyi Korea yang telah mencuri perhatian dunia dengan bakatnya yang menakjubkan dan keunikan artistiknya. Dalam industri musik Korea yang penuh dengan pesaing berbakat, BIBI mampu membedakan dirinya dengan gaya vokalnya yang unik dan kemampuannya dalam menghasilkan musik yang inovatif.
