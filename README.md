@@ -14,11 +14,11 @@ This is a minimalist, beautiful, responsive blogging program written in Astro.
 
 ### Dark mode
 
-![文章黑暗模式](./public/preview/preview_dark.png?)
+![文章黑暗模式](./public/preview/preview-dark-new.jpeg)
 
 ### Normal article
 
-![普通文章模式](./public/preview/preview_light.png)
+![普通文章模式](./public/preview/preview-normal-new.jpeg)
 
 ### Syntax highlighting
 
