@@ -10,7 +10,7 @@ This is a minimalist, beautiful, responsive blogging program written in Astro.
 
 ### Home
 
-![首页](./public/preview/preview_index.png)
+![首页](./public/preview/full-preview-new.jpeg)
 
 ### Dark mode
 
