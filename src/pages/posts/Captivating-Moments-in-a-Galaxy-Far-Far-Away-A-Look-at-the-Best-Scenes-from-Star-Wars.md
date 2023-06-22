@@ -1,5 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
+comments: '../layouts/Comments.svelte'
 title: 'Captivating Moments in a Galaxy Far, Far Away: A Look at the Best Scenes from Star Wars'
 pubDate: 2023-5-07
 description: ''
@@ -46,3 +47,5 @@ The climax of the original Star Wars film features Luke Skywalker and the Rebel 
 ## Conclusion
 
 Star Wars is a franchise that has something for everyone, whether it's action, romance, humor, or drama. The scenes we've highlighted here are just a small sample of the franchise's best moments, and each one has captured the imagination of fans in its unique way. If you're a Star Wars fan, we hope this article has reminded you of some of your favorite moments from the films and reignited your passion for the franchise. May the Force be with you, always.
+
+<comments client:load/>
