@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArchivePostList from "../layouts/ArchivePostList.astro";
+import Comments from  "../layouts/Comments.svelte";
 const allPosts = await Astro.glob("./posts/*.md");
 const tags = ["Film", "Music","K-Pop"];
 const posts = [];
@@ -13,6 +14,7 @@ tags.forEach((tag) => {
 
 <BaseLayout primaryTitle="Archive">
   <section class="archive">
+  <Comments client:load/>
     <div class="section-content section-tag">
       {
         tags.map((tag, index) => {
