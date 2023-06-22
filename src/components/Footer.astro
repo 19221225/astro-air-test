@@ -4,6 +4,7 @@ const { theme } = Astro.props;
 import { SITE_NAME } from "../consts";
 const date = new Date();
 const year = date.getFullYear();
+import comments from "../layouts/Comments.svelte"
 ---
 
 <div class:list={["footer-main", { "footer-dark": theme === "dark" }]}>
@@ -29,6 +30,7 @@ const year = date.getFullYear();
           &copy; {`${year} ${SITE_NAME}`} 
           <a href="https://github.com/19221225/astro-air-test">Astro-air-blog</a>
         </div>
+        <comments client:load/>
       </div>
     </div>
   </div>
