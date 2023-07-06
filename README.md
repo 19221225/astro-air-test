@@ -53,6 +53,7 @@ In this Astro project, you'll see the following folders and files:
 |   |   |-- BaseHead.astro // common <head> tags
 |   |   |-- Footer.astro
 |   |   |-- Header.astro
+|   |   |-- utterances.astro
 |   |   `-- Navigation.astro
 |   |-- consts.js
 |   |-- env.d.ts
