@@ -2,6 +2,7 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import Comments from "../components/utterances.astro";
 
 import { formatDate } from "../utils";
 import { SITE_TITLE } from "../consts";
@@ -63,6 +64,8 @@ const dateFormated = formatDate(pubDate);
               </div>
             </div>
           </div>
+         </slot/>
+         <Comments client:load/>
         </article>
       </section>
     </main>
